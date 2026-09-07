@@ -1,0 +1,11 @@
+lecturer_id,activity_type,timestamp
+Lecturer_001,Material,2025-08-01 08:00:00
+Lecturer_001,Forum,2025-08-01 08:30:00
+Lecturer_001,Assignment,2025-08-05 10:00:00
+Lecturer_001,Quiz,2025-08-10 09:00:00
+Lecturer_002,Assignment,2025-08-01 10:00:00
+Lecturer_002,Material,2025-08-02 08:00:00
+Lecturer_002,CBT,2025-08-12 14:00:00
+Lecturer_003,Forum,2025-08-03 11:00:00
+Lecturer_003,Material,2025-08-04 11:15:00
+Lecturer_003,Quiz,2025-08-08 13:00:00
